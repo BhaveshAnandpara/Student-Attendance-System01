@@ -106,7 +106,8 @@
          <div id="collapseBootstrapcon" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
              <div class="bg-white py-2 collapse-inner rounded">
                  <h6 class="collapse-header">Contribution</h6>
-                 <a class="collapse-item" href="createSessionTerm.php">Create Session and Term</a>
+                 <a class="collapse-item" href="createSessionTerm.php">Create Session</a>
+                 <a class="collapse-item" href="createTerm.php">Create Term</a>
                  <!-- <a class="collapse-item" href="addMemberToContLevel.php ">Add Member to Level</a> -->
              </div>
          </div>
